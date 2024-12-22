@@ -1,4 +1,4 @@
-"""Periodically read conv.txt and display it in a Taipy app."""
+"""Periodically read conv.txt and display it in a Senioor Assistant app."""
 
 import time
 from threading import Thread
