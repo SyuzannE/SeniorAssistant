@@ -1,6 +1,6 @@
 # Senior AI Voice Assistant
 
-Your Senior AI Voice Assistant is designed to assist elderly users in a Senior Smart Community by providing easy-to-use voice-based interaction with various smart systems and services. The project focuses on helping seniors navigate everyday tasks with voice commands, improving their independence and quality of life.
+Senior AI Voice Assistant is designed to assist elderly users in a Senior Smart Community by providing easy-to-use voice-based interaction with various smart systems and services. The project focuses on helping seniors navigate everyday tasks with voice commands, improving their independence and quality of life.
 
 
 ## How it works
@@ -25,10 +25,6 @@ Make sure you have the following API keys:
 ## How to install
 
 1. Clone the repository
-
-```bash
-git clone https://github.com/AlexandreSajus/JARVIS.git
-```
 
 2. Install the requirements
 
