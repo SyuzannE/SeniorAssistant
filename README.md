@@ -13,7 +13,7 @@
 
 ## 🎬 Demo
 
-[![Watch the Community Demo](https://img.shields.io/badge/▶%20Watch%20Project%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=nKVvYBCBXxs)
+[![Watch the Community Demo](https://img.shields.io/badge/▶%20Watch%20Project%20Demo-YouTube-red?style=for-the-badge&logo=youtube)]([https://www.youtube.com/watch?v=nKVvYBCBXxs](https://youtu.be/sT0m93JYH_Q))
 
 [![Figma Prototype](https://img.shields.io/badge/Open%20UI%20Prototype-Figma-purple?style=for-the-badge&logo=figma)](https://www.figma.com/proto/Bveqqy4Nn0SfUoR0ARjEVB/Untitled?nodeid=6-2&t=lzhhjAVlM9wNCHYl-1)
 
