@@ -1,5 +1,4 @@
 
-![Screenshot 2024-12-18 220925](https://github.com/user-attachments/assets/ad126185-1181-4ac0-a364-924475466f87)
 # 🤖 Aria — Senior AI Voice Assistant
 
 > A voice-powered AI companion built for elderly users, integrating speech recognition, LLM responses, and AI-synthesized voice — deployed as a live web interface.
